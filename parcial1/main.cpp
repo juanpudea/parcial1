@@ -23,7 +23,13 @@ int main()
         {
             case1:
         {
-            int v_inicial;
+            float v_inicial, angulo;
+
+            cout <<"Introduzca la velocidad inicial ofensiva en km/h"<<endl;
+            cin >>v_inicial;
+            cout <<"Introduzca el angulo de inclinacion"<<endl;
+            cin >>angulo;
+
         }
 
 
