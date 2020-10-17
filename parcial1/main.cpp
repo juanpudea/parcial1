@@ -15,6 +15,10 @@ int main()
 
         switch(opcion)
         {
+            case1:
+        {
+            int v_inicial;
+        }
 
 
         }
