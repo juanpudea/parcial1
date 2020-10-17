@@ -32,3 +32,8 @@ int main()
     }
 
 }
+
+void v_horizontal():
+{
+
+}
