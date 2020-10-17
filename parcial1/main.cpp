@@ -2,6 +2,12 @@
 
 using namespace std;
 
+void v_horizontal();
+void v_vertical();
+void p_horizontal();
+void p_vertical();
+
+
 int main()
 {
     int opcion = -1;
